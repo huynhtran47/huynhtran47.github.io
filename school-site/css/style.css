@@ -84,7 +84,6 @@ header, footer {
     src: url("../fonts/montserrat-regular.ttf") format('truetype');
     font-weight: normal;
     font-style: normal;
-
 }
 
 @font-face {
@@ -93,7 +92,6 @@ header, footer {
     font-weight: normal;
     font-style: normal;
 }
-
 
 /* Typography Styles */
 html {
@@ -106,7 +104,6 @@ h1 {
     font-size: 3.75rem;
     text-align: center;
     margin:1.125rem;
-
 }
 
 h2 {
@@ -127,7 +124,7 @@ p {
 
 li {
     font-size: .75rem;
-    line-height: 1.5rem;
+    line-height: 1.5;
     letter-spacing: .03125rem;
     word-spacing: .125rem;
 }
